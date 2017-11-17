@@ -1,2 +1,2 @@
 # stranger-things
-Fun analyses - hopefully, with weird results
+fun analyses - hopefully, with weird results
