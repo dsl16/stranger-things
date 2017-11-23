@@ -1,0 +1,8 @@
+setup.py
+Fun_Module.egg-info/PKG-INFO
+Fun_Module.egg-info/SOURCES.txt
+Fun_Module.egg-info/dependency_links.txt
+Fun_Module.egg-info/requires.txt
+Fun_Module.egg-info/top_level.txt
+bin/bob_the_dog.py
+funmodule/__init__.py
