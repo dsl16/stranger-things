@@ -1,3 +1,5 @@
+aws_config.json
 credentials.json
 data/
 environments/
+node_modules/
