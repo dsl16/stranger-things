@@ -1,15 +1,15 @@
 var Twitter = require('twitter');
-var AWS = require('aws-skd');
+var AWS = require('aws-sdk');
 
 AWS.config.loadFromPath('./aws_config.json')
 
 var kinesis = new AWS.Kinesis();
 
 var client = new Twitter({
-   "consumer_key": "UPjSUh1WqLTuvMBUgmON3oBdJ",
-   "consumer_secret": "tr2nKOHoGKpjovd5p1A6DmOY2jTDET9Dx5VzFdoXs0ebTxeuOq",
-   "access_token": "905583025-ER5ieDOI0dfA6nVTNslSZVREf1LM5pd2xAYZXkuZ",
-   "access_token_secret": "FR0DxmZJ0xjHIX492VJCD5qRdL2iuY51GqaqZkMzajaMY"
+   consumer_key: "sIk7RAYOcc0yqfVYPKgsTsJwK",
+   consumer_secret: "1xFtDLuIipjgGrbgqpkAvEw1K6EeSEpsI50pVLt7B32xtZHj2q",
+   access_token_key: "905583025-hE09VtsGXijgCjVgEvr3qBD3QaPCzx3t4gULBNvQ",
+   access_token_secret: "eNNC2uWCjx00FPTc4QbTaaQ0lsMKMPxfzlIrcO0WZdJ7o"
 });
 
 var stream = client.stream('statuses/filter', {
@@ -42,4 +42,4 @@ stream.on('data', function(event) {
 
 stream.on('error', function (error) {
   throw error;
-})
+});
