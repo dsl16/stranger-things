@@ -5,7 +5,7 @@ The primary goal of this repo is to hold all the various projects I build in my 
 - TwitterStream: Ingest and Process Tweets into formats suitable for S3 and DynamoDB
 
 ## List of Upcoming Projects
-- Manga Tracker: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track.
+- MangaTracker: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub.
 
 ## List of Resources to Explore
 - Digital Ocean
