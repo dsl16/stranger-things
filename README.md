@@ -7,10 +7,38 @@ The primary goal of this repo is to hold all the various projects I build in my 
 ## List of Upcoming Projects
 - MangaTracker: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
 
-## List of Resources to Explore
+# Languages
+
+## List of Languages I'm Comfortable With
+- Python
+- SQL
+
+## List of Languages I Have Basic Experience With
+- Matlab
+- Javascript
+
+## List of Languages to Explore
+- Javascript
+- C
+
+# Technologies
+
+## List of Technologies I'm Comfortable With
+- Airflow
+- Git
+- Tableau
+- AWS - S3
+
+## List of Technologies I Have Basic Experience With
+- AWS - DynamoDB, Athena, Lambda
+- Docker
+
+## List of Technologies to Explore Further
 - Digital Ocean
-- AWS
+- AWS - SageMaker, Kinesis, DynamoDB
 - Google Cloud
 - Microsoft Azure
 - Docker
-- Airflow
+- React
+- Node
+- MongoDB
