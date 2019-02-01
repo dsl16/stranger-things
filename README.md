@@ -42,3 +42,11 @@ The primary goal of this repo is to hold all the various projects I build in my 
 - React
 - Node
 - MongoDB
+
+# Learning Resources
+
+## List of Learning Resources I've Used and Liked
+- ACloudGuru
+
+## List of Learning Resources to Check Out
+- Launch School
