@@ -1,5 +1,8 @@
 # stranger-things
-The primary goal of this repo is to hold all the various projects I build in my free time. I'm hoping to grow in my software development skills. There's a lot to learn! So hopefully this repo will grow to hold many, many projects.
+The primary goal of this repo is to hold all the various projects I build in my free time. I'm hoping to grow in my software engineering skills. There's a lot to learn! So hopefully this repo will grow to hold many, many projects.
+
+## Why Software Engineering?
+I think I'm starting to acknowledge that I'm really more of an engineer than anything else. I like to solve problems by building solutions. That's different than medicine - where your focus is on treatment and using the most up-to-date solution - which has been a distracting path of potential for a long time. I'm still thinking through this choice (after all, once you have an MD, you have it for life), but for now, I certainly won't regret working on projects like these.
 
 ## List of Completed Projects
 - OH Anomaly Detection: Detect anomalies in Outcome Health processes and alert users via Slack
