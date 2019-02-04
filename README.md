@@ -51,7 +51,8 @@ I think I'm starting to acknowledge that I'm really more of an engineer than any
 # Learning Resources
 
 ## List of Learning Resources I've Used and Liked
-- ACloudGuru
+- [ACloudGuru](https://learn.acloud.guru/dashboard)
+- [CS50 Lectures](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
 
 ## List of Learning Resources to Check Out
-- Launch School
+- [Launch School](https://launchschool.com/)
