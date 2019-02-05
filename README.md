@@ -3,6 +3,7 @@ The primary goal of this repo is to hold all the various projects I build in my 
 
 ## Why Software Engineering?
 I think I'm starting to acknowledge that I'm really more of an engineer than anything else. I like to solve problems by building solutions. That's different than medicine - where your focus is on treatment and using the most up-to-date solution - which has been a distracting path of potential for a long time. I'm still thinking through this choice (after all, once you have an MD, you have it for life), but for now, I certainly won't regret working on projects like these.
+The most difficult part of software engineering for me is the fact that there is no formalized path. Everyone likes certainties, and I was definitely raised on the idea that a bird in the hand is worth two in the bush. It was phrased as "become a doctor", but that's the core idea. If I could find a more reliable path through the world of software engineering, I would probably love to follow it. But that's for another time!
 
 ## List of Completed Projects
 - OH Anomaly Detection: Detect anomalies in Outcome Health processes and alert users via Slack
