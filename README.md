@@ -56,5 +56,7 @@ The most difficult part of software engineering for me is the fact that there is
 - [ACloudGuru](https://learn.acloud.guru/dashboard)
 - [CS50 Lectures](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
 
-## List of Learning Resources to Check Out
+## List of Learning Resources Up Next
 - [Launch School](https://launchschool.com/)
+
+## List of Learning Resources to Check Out
