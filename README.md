@@ -42,6 +42,7 @@ The most difficult part of software engineering for me is the fact that there is
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
 - Digital Ocean
 - Kubernetes
+- Terraform - An orchestrator! It's a service that provides Infrastructure-as-Code like AWS CloudFormation
 - AWS - SageMaker, Kinesis, DynamoDB
 - Google Cloud
 - Microsoft Azure
