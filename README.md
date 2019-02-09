@@ -43,6 +43,7 @@ The most difficult part of software engineering for me is the fact that there is
 - Digital Ocean
 - Kubernetes
 - Terraform - An orchestrator! It's a service that provides Infrastructure-as-Code like AWS CloudFormation
+- Apache Spark - An end-to-end data analytics package. [This link](https://www.youtube.com/watch?v=4SIZNQ7KZX8) is a great start for understanding what it is.
 - AWS - SageMaker, Kinesis, DynamoDB
 - Google Cloud
 - Microsoft Azure
