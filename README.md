@@ -36,7 +36,7 @@ The most difficult part of software engineering for me is the fact that there is
 - AWS - S3
 
 ## List of Technologies I Have Basic Experience With
-- AWS - DynamoDB, Athena, Lambda
+- AWS - DynamoDB, Athena, Lambda, Kinesis
 - Docker
 
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
@@ -57,6 +57,8 @@ The most difficult part of software engineering for me is the fact that there is
 ## List of Learning Resources I've Used and Liked
 - [ACloudGuru](https://learn.acloud.guru/dashboard)
 - [CS50 Lectures](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
+- [AWS 10 Minute Tutorials](https://aws.amazon.com/getting-started/tutorials/)
+- [AWS Getting Started Center](https://aws.amazon.com/getting-started/)
 
 ## List of Learning Resources Up Next
 - [Launch School](https://launchschool.com/)
