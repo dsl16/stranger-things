@@ -55,10 +55,11 @@ The most difficult part of software engineering for me is the fact that there is
 # Learning Resources
 
 ## List of Learning Resources I've Used and Liked
-- [ACloudGuru](https://learn.acloud.guru/dashboard)
-- [CS50 Lectures](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
-- [AWS 10 Minute Tutorials](https://aws.amazon.com/getting-started/tutorials/)
-- [AWS Getting Started Center](https://aws.amazon.com/getting-started/)
+- [ACloudGuru](https://learn.acloud.guru/dashboard) - Great resource for learning about the various cloud providers.
+- [CS50 Lectures](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi) - Solid primer on the basics of CS.
+- [AWS 10 Minute Tutorials](https://aws.amazon.com/getting-started/tutorials/) - Quick tutorials for when I only have 10 minutes, but still want to learn and build something.
+- [AWS Getting Started Center](https://aws.amazon.com/getting-started/) - More in-depth tutorials on all AWS services.
+- [TechLead YouTube Channel](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw/featured) - Great for software engineering best practices from an experienced engineer.
 
 ## List of Learning Resources Up Next
 - [Launch School](https://launchschool.com/)
