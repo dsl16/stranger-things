@@ -44,7 +44,7 @@ The most difficult part of software engineering for me is the fact that there is
 - Kubernetes
 - Terraform - An orchestrator! It's a service that provides Infrastructure-as-Code like AWS CloudFormation
 - Apache Spark - An end-to-end data analytics package. [This link](https://www.youtube.com/watch?v=4SIZNQ7KZX8) is a great start for understanding what it is.
-- AWS - SageMaker, Kinesis, DynamoDB
+- AWS - SageMaker
 - Google Cloud
 - Microsoft Azure
 - Docker
@@ -59,7 +59,7 @@ The most difficult part of software engineering for me is the fact that there is
 - [CS50 Lectures](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi) - Solid primer on the basics of CS.
 - [AWS 10 Minute Tutorials](https://aws.amazon.com/getting-started/tutorials/) - Quick tutorials for when I only have 10 minutes, but still want to learn and build something.
 - [AWS Getting Started Center](https://aws.amazon.com/getting-started/) - More in-depth tutorials on all AWS services.
-- [TechLead YouTube Channel](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw/featured) - Great for software engineering best practices from an experienced engineer.
+- [TechLead YouTube Channel](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw/featured) - Great for software engineering best practices from an experienced engineer. Also, he's pretty hilarious, even when he doesn't mean to be.
 
 ## List of Learning Resources Up Next
 - [Launch School](https://launchschool.com/)
