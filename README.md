@@ -26,6 +26,8 @@ The most difficult part of software engineering for me is the fact that there is
 ## List of Languages to Explore
 - Javascript
 - C
+- Go
+- Scala
 
 # Technologies
 
