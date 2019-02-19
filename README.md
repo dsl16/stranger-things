@@ -54,7 +54,7 @@ The most difficult part of software engineering for me is the fact that there is
 - Node
 - MongoDB
 
-# Learning Resources
+# Learning Resources & Tutorials
 
 ## List of Learning Resources I've Used and Liked
 - [ACloudGuru](https://learn.acloud.guru/dashboard) - Great resource for learning about the various cloud providers.
@@ -67,3 +67,6 @@ The most difficult part of software engineering for me is the fact that there is
 - [Launch School](https://launchschool.com/)
 
 ## List of Learning Resources to Check Out
+
+## List of Tutorials I've Used and Liked
+- [How to Create & Upload a Python Package to PyPI](https://packaging.python.org/tutorials/packaging-projects/)
