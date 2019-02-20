@@ -39,7 +39,7 @@ The most difficult part of software engineering for me is the fact that there is
 - AWS - S3
 
 ## List of Technologies I Have Basic Experience With
-- AWS - DynamoDB, Athena, Lambda, Kinesis
+- AWS - DynamoDB, Athena, Lambda, Kinesis, Glacier, EMR
 - Docker
 
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
@@ -54,6 +54,7 @@ The most difficult part of software engineering for me is the fact that there is
 - React
 - Node
 - MongoDB
+- Ludwig
 
 # Learning Resources & Tutorials
 
