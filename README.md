@@ -41,6 +41,8 @@ The most difficult part of software engineering for me is the fact that there is
 ## List of Technologies I Have Basic Experience With
 - AWS - DynamoDB, Athena, Lambda, Kinesis, Glacier, EMR
 - Docker
+- DataBricks - A Data Science Enviroment Company
+- Snowflake - A Data Warehouse for Everything
 
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
 - Digital Ocean
