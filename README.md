@@ -11,10 +11,10 @@ The most difficult part of software engineering for me is the fact that there is
 - TwitterStream: Ingest and Process Tweets into formats suitable for S3 and DynamoDB
 
 ## List of Upcoming Projects
-* MangaTracker: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
+* _MangaTracker_: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
  * [MangaTracker Statement of Purpose](https://www.notion.so/darrinlim/MangaTracker-Statement-of-Purpose-ef04731e4a564369a0a8ed6190aa88c3)
  * [MangaTracker Specification of Architecture](https://www.notion.so/darrinlim/MangaTracker-Specification-of-Architecture-6423a17c8cad4cfbbf55d0004977a1dd)
-- AWS Big Data Certification: I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12). Look forward to seeing a series of mini-projects!
+- _AWS Big Data Certification_: I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12). Look forward to seeing a series of mini-projects!
 
 # Languages
 
@@ -48,7 +48,7 @@ The most difficult part of software engineering for me is the fact that there is
 
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
 - Digital Ocean
-- Kubernetes
+- Kubernetes - [What is Kubernetes?](https://www.youtube.com/watch?v=PH-2FfFD2PU) It's a service that provides the ability to run Docker containers across multiple machines, with Kubernetes ensuring that the number and type of containers you want are always up.
 - Terraform - An orchestrator! It's a service that provides Infrastructure-as-Code like AWS CloudFormation
 - Apache Spark - An end-to-end data analytics package. [This link](https://www.youtube.com/watch?v=4SIZNQ7KZX8) is a great start for understanding what it is.
 - AWS - SageMaker
