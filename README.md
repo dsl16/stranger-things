@@ -7,8 +7,8 @@ I think I'm starting to acknowledge that I'm really more of an engineer than any
 The most difficult part of software engineering for me is the fact that there is no formalized path. Everyone likes certainties, and I was definitely raised on the idea that a bird in the hand is worth two in the bush. It was phrased as "become a doctor", but that's the core idea. If I could find a more reliable path through the world of software engineering, I would probably love to follow it. I'm looking through [resources like 80,000 Hours](https://80000hours.org/) - if you're interested, you should, too!
 
 ## List of Completed Projects
-- OH Anomaly Detection: Detect anomalies in Outcome Health processes and alert users via Slack
-- TwitterStream: Ingest and Process Tweets into formats suitable for S3 and DynamoDB
+- _OH Anomaly Detection_: Detect anomalies in Outcome Health processes and alert users via Slack
+- _TwitterStream_: Ingest and Process Tweets into formats suitable for S3 and DynamoDB
 
 ## List of Upcoming Projects
 * _MangaTracker_: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
@@ -68,6 +68,7 @@ The most difficult part of software engineering for me is the fact that there is
 - [AWS 10 Minute Tutorials](https://aws.amazon.com/getting-started/tutorials/) - Quick tutorials for when I only have 10 minutes, but still want to learn and build something.
 - [AWS Getting Started Center](https://aws.amazon.com/getting-started/) - More in-depth tutorials on all AWS services.
 - [TechLead YouTube Channel](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw/featured) - Great for software engineering best practices from an experienced engineer. Also, he's pretty hilarious, even when he doesn't mean to be.
+- [Do You Need a Master's Degree?](https://www.youtube.com/watch?v=F0-fQn48tjk) - I like this take, primarily because it focuses on the end goal, which the degree itself is not.
 
 ## List of Learning Resources Up Next
 - [Launch School](https://launchschool.com/)
