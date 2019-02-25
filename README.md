@@ -7,14 +7,14 @@ I think I'm starting to acknowledge that I'm really more of an engineer than any
 The most difficult part of software engineering for me is the fact that there is no formalized path. Everyone likes certainties, and I was definitely raised on the idea that a bird in the hand is worth two in the bush. It was phrased as "become a doctor", but that's the core idea. If I could find a more reliable path through the world of software engineering, I would probably love to follow it. I'm looking through [resources like 80,000 Hours](https://80000hours.org/) - if you're interested, you should, too!
 
 ## List of Completed Projects
-- _OH Anomaly Detection_: Detect anomalies in Outcome Health processes and alert users via Slack
-- _TwitterStream_: Ingest and Process Tweets into formats suitable for S3 and DynamoDB
+- __OH Anomaly Detection__: Detect anomalies in Outcome Health processes and alert users via Slack
+- __TwitterStream__: Ingest and Process Tweets into formats suitable for S3 and DynamoDB
 
 ## List of Upcoming Projects
-* _MangaTracker_: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
+* __MangaTracker__: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
  * [MangaTracker Statement of Purpose](https://www.notion.so/darrinlim/MangaTracker-Statement-of-Purpose-ef04731e4a564369a0a8ed6190aa88c3)
  * [MangaTracker Specification of Architecture](https://www.notion.so/darrinlim/MangaTracker-Specification-of-Architecture-6423a17c8cad4cfbbf55d0004977a1dd)
-- _AWS Big Data Certification_: I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12). Look forward to seeing a series of mini-projects!
+- __AWS Big Data Certification__: I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12). Look forward to seeing a series of mini-projects!
 
 # Languages
 
@@ -43,7 +43,7 @@ The most difficult part of software engineering for me is the fact that there is
 ## List of Technologies I Have Basic Experience With
 - AWS - DynamoDB, Athena, Lambda, Kinesis, Glacier, EMR
 - Docker
-- DataBricks - A Data Science Enviroment Company
+- DataBricks - A Data Science Environment Company
 - Snowflake - A Data Warehouse for Everything
 
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
@@ -71,7 +71,7 @@ The most difficult part of software engineering for me is the fact that there is
 - [Do You Need a Master's Degree?](https://www.youtube.com/watch?v=F0-fQn48tjk) - I like this take, primarily because it focuses on the end goal, which the degree itself is not.
 
 ## List of Learning Resources Up Next
-- [Launch School](https://launchschool.com/)
+- [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
 
 ## List of Learning Resources to Check Out
 
