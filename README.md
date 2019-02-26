@@ -74,6 +74,7 @@ The most difficult part of software engineering for me is the fact that there is
 - [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
 
 ## List of Learning Resources to Check Out
+- [Crash Course - Software Engineering](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - A primer on the basics of software engineering
 
 ## List of Tutorials I've Used and Liked
 - [How to Create & Upload a Python Package to PyPI](https://packaging.python.org/tutorials/packaging-projects/)
