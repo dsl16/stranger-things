@@ -76,6 +76,7 @@ The most difficult part of software engineering for me is the fact that there is
 
 ## List of Learning Resources Up Next
 - [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
+- [MLLib Overview in Coursera](https://www.coursera.org/lecture/big-data-integration-processing/spark-mllib-uBV19)
 
 ## List of Learning Resources to Check Out
 - [Crash Course - Software Engineering](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - A primer on the basics of software engineering
