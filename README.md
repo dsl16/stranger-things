@@ -83,3 +83,11 @@ The most difficult part of software engineering for me is the fact that there is
 
 ## List of Tutorials I've Used and Liked
 - [How to Create & Upload a Python Package to PyPI](https://packaging.python.org/tutorials/packaging-projects/)
+
+## List of Algorithms I'm Comfortable with
+
+## List of Algorithms to Learn
+- MLLib
+  - 
+- GraphX
+  -
