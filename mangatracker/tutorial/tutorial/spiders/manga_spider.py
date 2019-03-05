@@ -1,7 +1,18 @@
 import scrapy
 import time
 import pandas as pd
+import subprocess
 
+import json
+
+def lambda_handler(event, context):
+    # TODO implement
+    subprocess.Popen("scrapy crawl mangatracker")
+
+    return {
+        'statusCode': 200,
+        'body': json.dumps('Hello from Lambda!')
+    }
 
 class MangaSpider(scrapy.Spider):
     name = "mangatracker"
@@ -22,3 +33,6 @@ class MangaSpider(scrapy.Spider):
             chapter_df = pd.DataFrame({'chapters':chapter_list,})
             chapter_df.to_csv(filename)
         self.log('Saved file %s' % filename)
+
+if __name__ == "__main__":
+    pass
