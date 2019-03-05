@@ -88,6 +88,13 @@ The most difficult part of software engineering for me is the fact that there is
 
 ## List of Algorithms to Learn
 - MLLib
-  - 
+  - Classification & Regression
+  - Collaborative Filtering
+  - Clustering
+  - Dimensionality Reduction
+  - Feature Extraction & Transformation
+  - Frequent Pattern Mining
+  - Evaluation Metrics
+  - Optimization
 - GraphX
   -
