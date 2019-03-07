@@ -1,6 +1,8 @@
 import json
-
-# import requests
+#import scrapy
+#import time
+import pandas as pd
+#import subprocess
 
 
 def lambda_handler(event, context):
@@ -36,7 +38,7 @@ def lambda_handler(event, context):
     return {
         "statusCode": 200,
         "body": json.dumps({
-            "message": "hello world",
+            "message": "Manga Scraped!",
             # "location": ip.text.replace("\n", "")
         }),
     }
