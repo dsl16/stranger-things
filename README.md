@@ -69,7 +69,7 @@ The most difficult part of software engineering for me is the fact that there is
 # Learning Resources & Tutorials
 
 ## My Medium Posts
-- 
+-
 
 ## List of Learning Resources I've Used and Liked
 - [ACloudGuru](https://learn.acloud.guru/dashboard) - Great resource for learning about the various cloud providers.
@@ -102,4 +102,6 @@ The most difficult part of software engineering for me is the fact that there is
   - Evaluation Metrics
   - Optimization
 - GraphX
-  -
+  - Page Ranking
+  - Connected Components
+  - Triangle Counting
