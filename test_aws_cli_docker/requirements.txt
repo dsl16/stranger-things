@@ -1,0 +1,4 @@
+Flask
+Redis
+awscli
+aws-sam-cli
