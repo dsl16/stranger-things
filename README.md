@@ -46,7 +46,7 @@ The most difficult part of software engineering for me is the fact that there is
 - AWS - S3
 
 ## List of Technologies I Have Basic Experience With
-- AWS - DynamoDB, Athena, Lambda, Kinesis, Glacier, EMR
+- AWS - DynamoDB, Athena, Lambda, Kinesis, Glacier, EMR, SAM
 - Docker - [A container service](https://www.youtube.com/watch?v=IbUXb4pQbPY)
 - DataBricks - A Data Science Environment Company
 - Snowflake - A Data Warehouse for Everything
@@ -69,7 +69,7 @@ The most difficult part of software engineering for me is the fact that there is
 # Learning Resources & Tutorials
 
 ## My Medium Posts
--
+- =[An Hour a Day to Being AWS Certified](https://medium.com/series/aws-big-data-certified-in-4-months-hopefully-f88281813b12)
 
 ## List of Learning Resources I've Used and Liked
 - [ACloudGuru](https://learn.acloud.guru/dashboard) - Great resource for learning about the various cloud providers.
