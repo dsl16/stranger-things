@@ -43,7 +43,7 @@ The most difficult part of software engineering for me is the fact that there is
 - Airflow
 - Git
 - Tableau
-- AWS - S3
+- AWS - S3, Redshift
 
 ## List of Technologies I Have Basic Experience With
 - AWS - DynamoDB, Athena, Lambda, Kinesis, Glacier, EMR, SAM
@@ -69,7 +69,7 @@ The most difficult part of software engineering for me is the fact that there is
 # Learning Resources & Tutorials
 
 ## My Medium Posts
-- =[An Hour a Day to Being AWS Certified](https://medium.com/series/aws-big-data-certified-in-4-months-hopefully-f88281813b12)
+- [An Hour a Day to Being AWS Certified](https://medium.com/series/aws-big-data-certified-in-4-months-hopefully-f88281813b12)
 
 ## List of Learning Resources I've Used and Liked
 - [ACloudGuru](https://learn.acloud.guru/dashboard) - Great resource for learning about the various cloud providers.
