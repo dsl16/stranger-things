@@ -1,4 +1,3 @@
-import json
 import scrapy
 import time
 import pandas as pd
