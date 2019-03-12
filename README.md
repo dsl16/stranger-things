@@ -97,6 +97,7 @@ The most difficult part of software engineering for me is the fact that there is
     - Linear Regression
     - Logistic Regression
   - Collaborative Filtering
+    - Alternating Least Squares Matrix Factorization
   - Clustering
   - Dimensionality Reduction
   - Feature Extraction & Transformation
