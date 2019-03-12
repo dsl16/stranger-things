@@ -27,7 +27,7 @@ Outputs:
 Resources:
   HelloWorldFunction:
     Properties:
-      CodeUri: s3://darrin-testing/a2f6be14eaab340d565fe40f341cc2fd
+      CodeUri: s3://darrin-testing/b0c002efb10f4e88a0b589e10df49a08
       Events:
         HelloWorld:
           Properties:
