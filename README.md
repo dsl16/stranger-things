@@ -90,12 +90,13 @@ The most difficult part of software engineering for me is the fact that there is
 - [How to Create & Upload a Python Package to PyPI](https://packaging.python.org/tutorials/packaging-projects/)
 
 ## List of Algorithms I'm Comfortable with
-
-## List of Algorithms to Learn
 - MLLib
   - Classification & Regression
     - Linear Regression
     - Logistic Regression
+    
+## List of Algorithms to Learn
+- MLLib
   - Collaborative Filtering
     - Alternating Least Squares Matrix Factorization
   - Clustering
