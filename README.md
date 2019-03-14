@@ -46,7 +46,7 @@ The most difficult part of software engineering for me is the fact that there is
 - AWS - S3, Redshift
 
 ## List of Technologies I Have Basic Experience With
-- AWS - DynamoDB, Athena, Lambda, Kinesis, Glacier, EMR, SAM
+- AWS - DynamoDB, Athena, Lambda, Kinesis, Glacier, EMR, SAM, IoT
 - Docker - [A container service](https://www.youtube.com/watch?v=IbUXb4pQbPY)
 - DataBricks - A Data Science Environment Company
 - Snowflake - A Data Warehouse for Everything
@@ -57,7 +57,7 @@ The most difficult part of software engineering for me is the fact that there is
 - Kubernetes - [What is Kubernetes?](https://www.youtube.com/watch?v=PH-2FfFD2PU) It's a service that provides the ability to run Docker containers across multiple machines, with Kubernetes ensuring that the number and type of containers you want are always up.
 - Terraform - An orchestrator! It's a service that provides Infrastructure-as-Code like AWS CloudFormation
 - Apache Spark - An end-to-end data analytics package. [This link](https://www.youtube.com/watch?v=4SIZNQ7KZX8) is a great start for understanding what it is.
-- AWS - SageMaker
+- AWS - SageMaker, Step Function
 - Google Cloud
 - Microsoft Azure
 - Docker
@@ -94,7 +94,7 @@ The most difficult part of software engineering for me is the fact that there is
   - Classification & Regression
     - Linear Regression
     - Logistic Regression
-    
+
 ## List of Algorithms to Learn
 - MLLib
   - Collaborative Filtering
