@@ -64,6 +64,8 @@ The most difficult part of software engineering for me is the fact that there is
 - React
 - Node
 - MongoDB
+- Django
+- D3
 - Ludwig
 
 # Learning Resources & Tutorials
