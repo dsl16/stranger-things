@@ -29,7 +29,7 @@ class MangaSpider(scrapy.Spider):
             chapter_list = response.xpath('//div[@class="chapter-name short"]/a').getall()
             if len(chapter_list) == 0:
                 # Raise an issue on no chapters found
-                pass
+                raise Exception('No Chapters Found - Check the Site for Updated HTML') 
             chapter_df = pd.DataFrame({'chapters':chapter_list,})
             chapter_df.to_csv(filename)
         self.log('Saved file %s' % filename)
