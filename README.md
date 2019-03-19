@@ -6,6 +6,8 @@ I think I'm starting to acknowledge that I'm really more of an engineer than any
 
 The most difficult part of software engineering for me is the fact that there is no formalized path. Everyone likes certainties, and I was definitely raised on the idea that a bird in the hand is worth two in the bush. It was phrased as "become a doctor", but that's the core idea. If I could find a more reliable path through the world of software engineering, I would probably love to follow it. I'm looking through [resources like 80,000 Hours](https://80000hours.org/) - if you're interested, you should, too!
 
+There is the formalized tracks the FAANG companies have: [more on that here](https://www.levels.fyi/).
+
 ## List of Completed Projects
 * __OH Anomaly Detection__: Detect anomalies in Outcome Health processes and alert users via Slack
 * __TwitterStream__: Ingest and Process Tweets into formats suitable for S3 and DynamoDB
