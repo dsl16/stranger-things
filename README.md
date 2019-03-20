@@ -18,6 +18,7 @@ There is the formalized tracks the FAANG companies have: [more on that here](htt
   * [MangaTracker Specification of Architecture](https://www.notion.so/darrinlim/MangaTracker-Specification-of-Architecture-6423a17c8cad4cfbbf55d0004977a1dd)
   * [MangaTracker Execution Checklist](https://www.notion.so/darrinlim/MangaTracker-Execution-Checklist-3e1fcb5f30414cf594f20b6f7a79b12c)
 * __AWS Big Data Certification__: I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12). Look forward to seeing a series of mini-projects!
+* __Provider Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data. This includes clinic and device location information.
 
 ## List of Upcoming Projects
 
