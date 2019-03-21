@@ -18,7 +18,7 @@ There is the formalized tracks the FAANG companies have: [more on that here](htt
   * [MangaTracker Specification of Architecture](https://www.notion.so/darrinlim/MangaTracker-Specification-of-Architecture-6423a17c8cad4cfbbf55d0004977a1dd)
   * [MangaTracker Execution Checklist](https://www.notion.so/darrinlim/MangaTracker-Execution-Checklist-3e1fcb5f30414cf594f20b6f7a79b12c)
 * __AWS Big Data Certification__: I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12). Look forward to seeing a series of mini-projects!
-* __Provider Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data. This includes clinic and device location information.
+* __Provider Operations Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data. This includes clinic and device location information.
 
 ## List of Upcoming Projects
 
@@ -53,23 +53,24 @@ There is the formalized tracks the FAANG companies have: [more on that here](htt
 - Docker - [A container service](https://www.youtube.com/watch?v=IbUXb4pQbPY)
 - DataBricks - A Data Science Environment Company
 - Snowflake - A Data Warehouse for Everything
+- Looker - A BI tool for building reports and dashboards
 
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
 - Digital Ocean
-- Serverless
+- Serverless - An orchestration tool for building Infrastructure-as-Code
 - Kubernetes - [What is Kubernetes?](https://www.youtube.com/watch?v=PH-2FfFD2PU) It's a service that provides the ability to run Docker containers across multiple machines, with Kubernetes ensuring that the number and type of containers you want are always up.
 - Terraform - An orchestrator! It's a service that provides Infrastructure-as-Code like AWS CloudFormation
 - Apache Spark - An end-to-end data analytics package. [This link](https://www.youtube.com/watch?v=4SIZNQ7KZX8) is a great start for understanding what it is.
 - AWS - SageMaker, Step Function
 - Google Cloud
 - Microsoft Azure
-- Docker
+- Docker - A containerization service. Docker essentially allows you to create images that can run your service on any machine.
 - React
 - Node
-- MongoDB
-- Django
-- D3
-- Ludwig
+- MongoDB - A NoSQL database service.
+- Django - A web development framework for Python.
+- D3 - A Javascript framework for building interactive, browser-based visualizations.
+- Ludwig - Uber's open source ML framework.
 
 # Learning Resources & Tutorials
 
