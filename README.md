@@ -21,6 +21,9 @@ There is the formalized tracks the FAANG companies have: [more on that here](htt
 * __Provider Operations Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data. This includes clinic and device location information.
 
 ## List of Upcoming Projects
+* __AWS Machine Learning Certification__
+* __Physical Medicine Tracker w/ Raspberry Pi & a Web Front-End__
+* __Mushroom Growing Box w/ Mycodo__
 
 # Languages
 
