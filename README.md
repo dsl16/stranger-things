@@ -24,6 +24,7 @@ There is the formalized tracks the FAANG companies have: [more on that here](htt
 * __AWS Machine Learning Certification__
 * __Physical Medicine Tracker w/ Raspberry Pi & a Web Front-End__
 * __Mushroom Growing Box w/ Mycodo__
+* __Launch School__
 
 # Languages
 
