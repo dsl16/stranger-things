@@ -25,7 +25,7 @@ There is the formalized tracks the FAANG companies have: [more on that here](htt
 * __Physical Medicine Tracker w/ Raspberry Pi & a Web Front-End__
 * __Mushroom Growing Box w/ Mycodo__
 * __Launch School__
-* __Coursera Deep Learning specialization__
+* __Coursera Deep Learning Specialization__
 
 # Languages
 
@@ -89,6 +89,7 @@ There is the formalized tracks the FAANG companies have: [more on that here](htt
 - [AWS Getting Started Center](https://aws.amazon.com/getting-started/) - More in-depth tutorials on all AWS services.
 - [TechLead YouTube Channel](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw/featured) - Great for software engineering best practices from an experienced engineer. Also, he's pretty hilarious, even when he doesn't mean to be.
 - [Do You Need a Master's Degree?](https://www.youtube.com/watch?v=F0-fQn48tjk) - I like this take, primarily because it focuses on the end goal, which the degree itself is not.
+- [Building a Career in Machine Learning w/ Andrew Ng](https://www.youtube.com/watch?v=4kiHsIaK9_w) - A solid discussion on where the field of AI is going and how to develop the skills necessary to build a career in it.
 
 ## List of Learning Resources Up Next
 - [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
