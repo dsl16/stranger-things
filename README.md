@@ -78,21 +78,21 @@ There is the formalized tracks the FAANG companies have: [more on that here](htt
 - React
 - Node
 - MongoDB - A NoSQL database service.
-- Django - A web development framework for Python.
-- D3 - A Javascript framework for building interactive, browser-based visualizations.
-- Ludwig - Uber's open source ML framework.
 
 # Libraries
 
 ## List of Libraries I Use Often
 - Pandas
+- Pandas Profiling
 - Jupyter Notebook
 
 ## List of Libraries I Can Use
 -
 
 ## List of Libraries to Check Out
--
+- Ludwig - Uber's open source ML framework.
+- Django - A web development framework for Python.
+- D3 - A Javascript framework for building interactive, browser-based visualizations.
 
 ## List of Algorithms I'm Comfortable with
 - MLLib
