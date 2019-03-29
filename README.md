@@ -93,6 +93,7 @@ There is the formalized tracks the FAANG companies have: [more on that here](htt
 - Ludwig - Uber's open source ML framework.
 - Django - A web development framework for Python.
 - D3 - A Javascript framework for building interactive, browser-based visualizations.
+- Tensorflow - A library for building ML applications
 
 ## List of Algorithms I'm Comfortable with
 - MLLib
