@@ -56,11 +56,12 @@ There is the formalized tracks the FAANG companies have: [more on that here](htt
 - Airflow
 - Git
 - Tableau
-- AWS - S3, Redshift
+- AWS - S3, Redshift, Athena
 
 ## List of Technologies I Have Basic Experience With
-- AWS - DynamoDB, Athena, Lambda, Kinesis, Glacier, EMR, SAM, IoT
+- AWS - DynamoDB, Glue, Lambda, Kinesis, Glacier, EMR, SAM, IoT
 - Docker - [A container service](https://www.youtube.com/watch?v=IbUXb4pQbPY)
+- Interworks - A Data Portal Service for Tableau
 - DataBricks - A Data Science Environment Company
 - Snowflake - A Data Warehouse for Everything
 - Looker - A BI tool for building reports and dashboards
