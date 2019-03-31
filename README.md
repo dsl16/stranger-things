@@ -65,10 +65,10 @@ There is the formalized tracks the FAANG companies have: [more on that here](htt
 - DataBricks - A Data Science Environment Company
 - Snowflake - A Data Warehouse for Everything
 - Looker - A BI tool for building reports and dashboards
+- Serverless - An orchestration tool for building Infrastructure-as-Code
 
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
 - Digital Ocean
-- Serverless - An orchestration tool for building Infrastructure-as-Code
 - Kubernetes - [What is Kubernetes?](https://www.youtube.com/watch?v=PH-2FfFD2PU) It's a service that provides the ability to run Docker containers across multiple machines, with Kubernetes ensuring that the number and type of containers you want are always up.
 - Terraform - An orchestrator! It's a service that provides Infrastructure-as-Code like AWS CloudFormation
 - Apache Spark - An end-to-end data analytics package. [This link](https://www.youtube.com/watch?v=4SIZNQ7KZX8) is a great start for understanding what it is.
