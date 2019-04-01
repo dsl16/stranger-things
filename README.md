@@ -6,13 +6,13 @@ I think I'm starting to acknowledge that I'm really more of an engineer than any
 
 The most difficult part of software engineering for me is the fact that there is no formalized path. Everyone likes certainties, and I was definitely raised on the idea that a bird in the hand is worth two in the bush. It was phrased as "become a doctor", but that's the core idea. If I could find a more reliable path through the world of software engineering, I would probably love to follow it. I'm looking through [resources like 80,000 Hours](https://80000hours.org/) - if you're interested, you should, too!
 
-There is the formalized tracks the FAANG companies have: [more on that here](https://www.levels.fyi/).
+There are the formalized tracks the FAANG companies have: [more on that here](https://www.levels.fyi/). This could be useful if I ever want to go down that track. But we'll cross that bridge when we get there.
 
 # Projects
 
 ## List of Completed Projects
-* __OH Anomaly Detection__: Detect anomalies in Outcome Health processes and alert users via Slack
-* __TwitterStream__: Ingest and Process Tweets into formats suitable for S3 and DynamoDB
+* __OH Anomaly Detection__: Detect anomalies in Outcome Health processes and alert users via Slack.
+* __TwitterStream__: Ingest and Process Tweets into formats suitable for S3 and DynamoDB.
 
 ## List of Current Projects
 * __MangaTracker__: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
