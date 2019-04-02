@@ -66,6 +66,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - Snowflake - A Data Warehouse for Everything
 - Looker - A BI tool for building reports and dashboards
 - Serverless - An orchestration tool for building Infrastructure-as-Code
+- Docker - A containerization service. Docker essentially allows you to create images that can run your service on any machine.
 
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
 - Digital Ocean
@@ -75,7 +76,6 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - AWS - SageMaker, Step Function
 - Google Cloud
 - Microsoft Azure
-- Docker - A containerization service. Docker essentially allows you to create images that can run your service on any machine.
 - React
 - Node
 - MongoDB - A NoSQL database service.
