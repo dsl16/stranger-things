@@ -86,9 +86,10 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - Pandas
 - Pandas Profiling
 - Jupyter Notebook
+- boto3
 
 ## List of Libraries I Can Use
--
+- Psycopg2
 
 ## List of Libraries to Check Out
 - Ludwig - Uber's open source ML framework.
