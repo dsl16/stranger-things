@@ -130,6 +130,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - [TechLead YouTube Channel](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw/featured) - Great for software engineering best practices from an experienced engineer. Also, he's pretty hilarious, even when he doesn't mean to be.
 - [Do You Need a Master's Degree?](https://www.youtube.com/watch?v=F0-fQn48tjk) - I like this take, primarily because it focuses on the end goal, which the degree itself is not.
 - [Building a Career in Machine Learning w/ Andrew Ng](https://www.youtube.com/watch?v=4kiHsIaK9_w) - A solid discussion on where the field of AI is going and how to develop the skills necessary to build a career in it.
+- [Hands-On Machine Learning with Scikit-Learn & Tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) - A great overview of all the various kinds of ML algorithms and where to apply them, as well as basic frameworks for setting up an ML pipeline.
 
 ## List of Learning Resources Up Next
 - [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
