@@ -56,46 +56,58 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - Airflow
 - Git
 - Tableau
-- AWS - S3, Redshift, Athena
+- AWS: S3, Redshift, Athena
 
 ## List of Technologies I Have Basic Experience With
-- AWS - DynamoDB, Glue, Lambda, Kinesis, Glacier, EMR, SAM, IoT
-- Docker - [A container service](https://www.youtube.com/watch?v=IbUXb4pQbPY)
-- Interworks - A Data Portal Service for Tableau
-- DataBricks - A Data Science Environment Company
-- Snowflake - A Data Warehouse for Everything
-- Looker - A BI tool for building reports and dashboards
-- Serverless - An orchestration tool for building Infrastructure-as-Code
-- Docker - A containerization service. Docker essentially allows you to create images that can run your service on any machine.
+- AWS: DynamoDB, Glue, Lambda, Kinesis, Glacier, EMR, SAM, IoT
+- Docker: [A container service](https://www.youtube.com/watch?v=IbUXb4pQbPY)
+- Interworks: A Data Portal Service for Tableau
+- DataBricks: A Data Science Environment Company
+- Snowflake: A Data Warehouse for Everything
+- Looker: A BI tool for building reports and dashboards
+- Serverless: An orchestration tool for building Infrastructure-as-Code
+- Docker: A containerization service. Docker essentially allows you to create images that can run your service on any machine.
 
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
 - Digital Ocean
-- Kubernetes - [What is Kubernetes?](https://www.youtube.com/watch?v=PH-2FfFD2PU) It's a service that provides the ability to run Docker containers across multiple machines, with Kubernetes ensuring that the number and type of containers you want are always up.
-- Terraform - An orchestrator! It's a service that provides Infrastructure-as-Code like AWS CloudFormation
-- Apache Spark - An end-to-end data analytics package. [This link](https://www.youtube.com/watch?v=4SIZNQ7KZX8) is a great start for understanding what it is.
-- AWS - SageMaker, Step Function
+- Kubernetes: [What is Kubernetes?](https://www.youtube.com/watch?v=PH-2FfFD2PU) It's a service that provides the ability to run Docker containers across multiple machines, with Kubernetes ensuring that the number and type of containers you want are always up.
+- Terraform: An orchestrator! It's a service that provides Infrastructure-as-Code like AWS CloudFormation
+- Apache Spark: An end-to-end data analytics package. [This link](https://www.youtube.com/watch?v=4SIZNQ7KZX8) is a great start for understanding what it is.
+- AWS: SageMaker, Step Function
 - Google Cloud
 - Microsoft Azure
 - React
 - Node
-- MongoDB - A NoSQL database service.
+- MongoDB: A NoSQL database service.
 
 # Libraries
 
 ## List of Libraries I Use Often
-- Pandas
-- Pandas Profiling
-- Jupyter Notebook
-- boto3
+- pandas: For data manipulation and visualization
+- pandas_profiling: Provides statistics on pandas dataframes
+- jupyter notebook: Interface for running Python
+- boto3: AWS SDK for Python
+- logging: For logging
+- os: For system operations
+- time: Basic time functionality
+- datetime: More advanced datetime functionality
 
 ## List of Libraries I Can Use
-- Psycopg2
+- Psycopg2: For connecting to SQL dbs
+- subprocess: For running bash scripts
+- bs4: For text parsing and NLP
+- ast: For literal string reading
+- json: For json parsing
 
 ## List of Libraries to Check Out
-- Ludwig - Uber's open source ML framework.
-- Django - A web development framework for Python.
-- D3 - A Javascript framework for building interactive, browser-based visualizations.
-- Tensorflow - A library for building ML applications
+- Ludwig: Uber's open source ML framework.
+- Django: A web development framework for Python.
+- D3: A Javascript framework for building interactive, browser-based visualizations.
+- Tensorflow: A library for building ML applications
+- animatplot: For creating animated plots
+- pandas_summary: For generating summary statistics on dataframes
+- janitor
+- missingno
 
 ## List of Algorithms I'm Comfortable with
 - MLLib
