@@ -79,6 +79,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - React
 - Node
 - MongoDB: A NoSQL database service.
+- Vaadin: A web app architecture visualization tool.
 
 # Libraries
 
@@ -103,6 +104,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - Ludwig: Uber's open source ML framework.
 - Django: A web development framework for Python.
 - D3: A Javascript framework for building interactive, browser-based visualizations.
+- Viz.js: A Javascript framework for building visualizations of web app architecture
 - Tensorflow: A library for building ML applications
 - animatplot: For creating animated plots
 - pandas_summary: For generating summary statistics on dataframes
