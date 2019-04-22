@@ -56,17 +56,16 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - Airflow
 - Git
 - Tableau
-- AWS: S3, Redshift, Athena
+- AWS: S3, Redshift, Athena, Lambda, DynamoDB
 
 ## List of Technologies I Have Basic Experience With
-- AWS: DynamoDB, Glue, Lambda, Kinesis, Glacier, EMR, SAM, IoT
+- AWS: Glue, Kinesis, Glacier, EMR, SAM, IoT
 - Docker: [A container service](https://www.youtube.com/watch?v=IbUXb4pQbPY)
 - Interworks: A Data Portal Service for Tableau
 - DataBricks: A Data Science Environment Company
 - Snowflake: A Data Warehouse for Everything
 - Looker: A BI tool for building reports and dashboards
 - Serverless: An orchestration tool for building Infrastructure-as-Code
-- Docker: A containerization service. Docker essentially allows you to create images that can run your service on any machine.
 
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
 - Digital Ocean
@@ -95,7 +94,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - datetime: More advanced datetime functionality
 
 ## List of Libraries I Can Use
-- Psycopg2: For connecting to SQL dbs
+- psycopg2: For connecting to SQL dbs
 - subprocess: For running bash scripts
 - bs4: For text parsing and NLP
 - ast: For literal string reading
