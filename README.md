@@ -110,6 +110,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - pandas_summary: For generating summary statistics on dataframes
 - janitor
 - missingno
+- pysnooper: For debugging
 
 ## List of Algorithms I'm Comfortable with
 - MLLib
@@ -152,6 +153,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 
 ## List of Learning Resources to Check Out
 - [Crash Course - Software Engineering](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - A primer on the basics of software engineering
+- [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)
 
 ## List of Tutorials I've Used and Liked
 - [How to Create & Upload a Python Package to PyPI](https://packaging.python.org/tutorials/packaging-projects/)
