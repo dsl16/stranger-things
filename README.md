@@ -146,13 +146,13 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - [Do You Need a Master's Degree?](https://www.youtube.com/watch?v=F0-fQn48tjk) - I like this take, primarily because it focuses on the end goal, which the degree itself is not.
 - [Building a Career in Machine Learning w/ Andrew Ng](https://www.youtube.com/watch?v=4kiHsIaK9_w) - A solid discussion on where the field of AI is going and how to develop the skills necessary to build a career in it.
 - [Hands-On Machine Learning with Scikit-Learn & Tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) - A great overview of all the various kinds of ML algorithms and where to apply them, as well as basic frameworks for setting up an ML pipeline.
+- [Crash Course - Software Engineering](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - This is a great series that goes from the raw basics to more advanced CS topics. A lot like Charles Petzoid's book, "Code".
 
 ## List of Learning Resources Up Next
 - [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
 - [MLLib Overview in Coursera](https://www.coursera.org/lecture/big-data-integration-processing/spark-mllib-uBV19)
 
 ## List of Learning Resources to Check Out
-- [Crash Course - Software Engineering](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - A primer on the basics of software engineering
 - [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)
 
 ## List of Tutorials I've Used and Liked
