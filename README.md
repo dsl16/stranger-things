@@ -111,6 +111,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - janitor
 - missingno
 - pysnooper: For debugging
+- pytz: For timezone manipulation
 
 ## List of Algorithms I'm Comfortable with
 - MLLib
