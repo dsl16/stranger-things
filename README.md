@@ -60,7 +60,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - AWS: S3, Redshift, Athena, Lambda, DynamoDB
 
 ## List of Technologies I Have Basic Experience With
-- AWS: Glue, Kinesis, Glacier, EMR, SAM, IoT
+- AWS: Glue, Kinesis, Glacier, EMR, SAM, IoT, SageMaker
 - Docker: [A container service](https://www.youtube.com/watch?v=IbUXb4pQbPY)
 - Interworks: A Data Portal Service for Tableau
 - DataBricks: A Data Science Environment Company
@@ -73,7 +73,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - Kubernetes: [What is Kubernetes?](https://www.youtube.com/watch?v=PH-2FfFD2PU) It's a service that provides the ability to run Docker containers across multiple machines, with Kubernetes ensuring that the number and type of containers you want are always up.
 - Terraform: An orchestrator! It's a service that provides Infrastructure-as-Code like AWS CloudFormation
 - Apache Spark: An end-to-end data analytics package. [This link](https://www.youtube.com/watch?v=4SIZNQ7KZX8) is a great start for understanding what it is.
-- AWS: SageMaker, Step Function
+- AWS: Step Function
 - Google Cloud
 - Microsoft Azure
 - React
