@@ -13,14 +13,15 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 ## List of Completed Projects
 * __OH Anomaly Detection__: Detect anomalies in Outcome Health processes and alert users via Slack.
 * __TwitterStream__: Ingest and Process Tweets into formats suitable for S3 and DynamoDB.
+* __AWS Big Data Certification__: I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12).
+  * Update: I'll be taking my exam May 1, 2019. So here's to the best of luck!
+  * Update: I PASSED!! After 87 days of study, I got my Big Data Certification!
 
 ## List of Current Projects
 * __MangaTracker__: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
   * [MangaTracker Statement of Purpose](https://www.notion.so/darrinlim/MangaTracker-Statement-of-Purpose-ef04731e4a564369a0a8ed6190aa88c3)
   * [MangaTracker Specification of Architecture](https://www.notion.so/darrinlim/MangaTracker-Specification-of-Architecture-6423a17c8cad4cfbbf55d0004977a1dd)
   * [MangaTracker Execution Checklist](https://www.notion.so/darrinlim/MangaTracker-Execution-Checklist-3e1fcb5f30414cf594f20b6f7a79b12c)
-* __AWS Big Data Certification__: I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12).
-  * Update: I'll be taking my exam May 1, 2019. So here's to the best of luck!
 * __Provider Operations Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data. This includes clinic and device location information. We'll be building 3 separate iterations - an Airflow pipeline with original logic, an Airflow pipeline with refactored logic, and a micro-services "publish/subscribe" architecture.
 
 # My Medium Posts
