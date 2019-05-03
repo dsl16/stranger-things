@@ -16,6 +16,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 * __AWS Big Data Certification__: I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12).
   * Update: I'll be taking my exam May 1, 2019. So here's to the best of luck!
   * Update: I PASSED!! After 87 days of study, I got my Big Data Certification!
+  * Update: I'll be spending a few days reflecting on what I've learned, which I'll add to my Medium series. I also need to think about what the next step in my journey should be, given all I've learned.
 
 ## List of Current Projects
 * __MangaTracker__: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
@@ -28,10 +29,10 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - [An Hour a Day to Being AWS Certified](https://medium.com/series/aws-big-data-certified-in-4-months-hopefully-f88281813b12)
 
 ## List of Upcoming Projects
+* __Launch School__
 * __AWS Machine Learning Certification__
 * __Physical Medicine Tracker w/ Raspberry Pi & a Web Front-End__
 * __Mushroom Growing Box w/ Mycodo__
-* __Launch School__
 * __Coursera Deep Learning Specialization__
 
 # Languages
