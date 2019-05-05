@@ -83,6 +83,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - MongoDB: A NoSQL database service.
 - Vaadin: A web app architecture visualization tool.
 - Cloudcraft: A service that creates smart AWS architecture diagrams.
+- Swift for Tensorflow
 
 # Libraries
 
