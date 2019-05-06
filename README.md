@@ -153,9 +153,9 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - [Hands-On Machine Learning with Scikit-Learn & Tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) - A great overview of all the various kinds of ML algorithms and where to apply them, as well as basic frameworks for setting up an ML pipeline.
 - [Crash Course - Software Engineering](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - This is a great series that goes from the raw basics to more advanced CS topics. A lot like Charles Petzoid's book, "Code".
 - [Naval Ravikant's Series on Building Wealth](https://startupboy.com/2019/03/19/long-term/) - Amazing. Still digesting after multiple reads.
+- [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
 
 ## List of Learning Resources Up Next
-- [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
 - [MLLib Overview in Coursera](https://www.coursera.org/lecture/big-data-integration-processing/spark-mllib-uBV19)
 
 ## List of Learning Resources to Check Out
