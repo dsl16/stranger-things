@@ -13,7 +13,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 ## List of Completed Projects
 * __OH Anomaly Detection__: Detect anomalies in Outcome Health processes and alert users via Slack.
 * __TwitterStream__: Ingest and Process Tweets into formats suitable for S3 and DynamoDB.
-* __AWS Big Data Certification__: I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12).
+* __AWS Big Data Certification__ (Feb-Apr 2019): I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12).
   * Update: I'll be taking my exam May 1, 2019. So here's to the best of luck!
   * Update: I PASSED!! After 87 days of study, I got my Big Data Certification!
   * Update: I'll be spending a few days reflecting on what I've learned, which I'll add to my Medium series. I also need to think about what the next step in my journey should be, given all I've learned.
