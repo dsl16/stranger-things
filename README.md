@@ -34,6 +34,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 * __Physical Medicine Tracker w/ Raspberry Pi & a Web Front-End__
 * __Mushroom Growing Box w/ Mycodo__
 * __Coursera Deep Learning Specialization__
+* __Initial Steps to a Master's Degree__
 
 # Languages
 
