@@ -17,6 +17,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
   * Update: I'll be taking my exam May 1, 2019. So here's to the best of luck!
   * Update: I PASSED!! After 87 days of study, I got my Big Data Certification!
   * Update: I'll be spending a few days reflecting on what I've learned, which I'll add to my Medium series. I also need to think about what the next step in my journey should be, given all I've learned.
+  * Update: Been thinking through how I choose my next project - retrospective on its way!
 
 ## List of Current Projects
 * __MangaTracker__: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
