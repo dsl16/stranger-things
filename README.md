@@ -27,6 +27,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
   * [MangaTracker Execution Checklist](https://www.notion.so/darrinlim/MangaTracker-Execution-Checklist-3e1fcb5f30414cf594f20b6f7a79b12c)
 * __Provider Operations Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data. This includes clinic and device location information. We'll be building 3 separate iterations - an Airflow pipeline with original logic, an Airflow pipeline with refactored logic, and a micro-services "publish/subscribe" architecture.
 * __AWS Big Data Certification Medium Article__: Since I've finished my AWS Big Data Certification, I should write a Medium article about the process and what I learned.
+* __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics.
 
 # My Medium Posts
 - [An Hour a Day to Being AWS Certified](https://medium.com/series/aws-big-data-certified-in-4-months-hopefully-f88281813b12)
