@@ -40,6 +40,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 * __Mushroom Growing Box w/ Mycodo__
 * __Coursera Deep Learning Specialization__
 * __Initial Steps to a Master's Degree__
+* __VR Development Course__
 
 # Languages
 
