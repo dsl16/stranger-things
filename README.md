@@ -33,6 +33,9 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - [An Hour a Day to Being AWS Certified](https://medium.com/series/aws-big-data-certified-in-4-months-hopefully-f88281813b12)
 - [Using Machine Learning to Automate Anomaly Detection on a 100,000 Device Network](https://medium.com/inside-outcome/using-machine-learning-to-automate-anomaly-detection-on-a-100-000-device-network-e1f3d0c8876c)
 
+# Medium Posts I Heavily Contributed To
+- [Automating Video Transcoding with AWS Lambda & Serverless](https://medium.com/inside-outcome/automating-video-transcoding-with-aws-lambda-serverless-f98cd57d8ccc)
+
 ## List of Upcoming Projects
 * __Launch School__
 * __AWS Machine Learning Certification__
