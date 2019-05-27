@@ -37,13 +37,13 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - [Automating Video Transcoding with AWS Lambda & Serverless](https://medium.com/inside-outcome/automating-video-transcoding-with-aws-lambda-serverless-f98cd57d8ccc)
 
 ## List of Upcoming Projects
-* __Launch School__
-* __AWS Machine Learning Certification__
+* __Storytelling Courses/Focus__: Learn how to tell a great story.
+* __Launch School__: Learn web development and best practices around software engineering.
+* __AWS Machine Learning Certification__: Learn how to implement machine learning systems on AWS.
 * __Physical Medicine Tracker w/ Raspberry Pi & a Web Front-End__
 * __Mushroom Growing Box w/ Mycodo__
 * __Coursera Deep Learning Specialization__
 * __Initial Steps to a Master's Degree__
-* __Storytelling Courses/Focus__
 * __VR Development Course__
 
 # Languages
