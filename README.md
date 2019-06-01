@@ -174,3 +174,8 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 
 ## List of Tutorials I've Used and Liked
 - [How to Create & Upload a Python Package to PyPI](https://packaging.python.org/tutorials/packaging-projects/)
+
+# Cool Articles
+
+## Medicine
+- [Adaptive Medicine - Evolution Applied to Cancer Treatment](https://www.wired.com/story/cancer-treatment-darwin-evolution/)
