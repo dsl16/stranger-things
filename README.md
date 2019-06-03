@@ -179,3 +179,8 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 
 ## Medicine
 - [Adaptive Medicine - Evolution Applied to Cancer Treatment](https://www.wired.com/story/cancer-treatment-darwin-evolution/)
+
+# Cool Companies
+
+## Medicine
+- [Open Bionics](https://openbionics.com/)
