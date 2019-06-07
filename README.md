@@ -165,6 +165,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - [Crash Course - Software Engineering](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - This is a great series that goes from the raw basics to more advanced CS topics. A lot like Charles Petzoid's book, "Code".
 - [Naval Ravikant's Series on Building Wealth](https://startupboy.com/2019/03/19/long-term/) - Amazing. Still digesting after multiple reads.
 - [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
+- [Naval Ravikant's Tweetstorm on How to Get Rich Without Being Lucky](https://twitter.com/naval/status/1002103360646823936?lang=en) - The tweet version of the series above.
 
 ## List of Learning Resources Up Next
 - [MLLib Overview in Coursera](https://www.coursera.org/lecture/big-data-integration-processing/spark-mllib-uBV19)
