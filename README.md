@@ -25,7 +25,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
   * [MangaTracker Statement of Purpose](https://www.notion.so/darrinlim/MangaTracker-Statement-of-Purpose-ef04731e4a564369a0a8ed6190aa88c3)
   * [MangaTracker Specification of Architecture](https://www.notion.so/darrinlim/MangaTracker-Specification-of-Architecture-6423a17c8cad4cfbbf55d0004977a1dd)
   * [MangaTracker Execution Checklist](https://www.notion.so/darrinlim/MangaTracker-Execution-Checklist-3e1fcb5f30414cf594f20b6f7a79b12c)
-* __Provider Operations Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data. This includes clinic and device location information. We'll be building 3 separate iterations - an Airflow pipeline with original logic, an Airflow pipeline with refactored logic, and a micro-services "publish/subscribe" architecture.
+* __Provider Operations Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data. This includes clinic and device location information.
 * __AWS Big Data Certification Medium Article__: Since I've finished my AWS Big Data Certification, I should write a Medium article about the process and what I learned.
 * __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics, as Google Analytics doesn't provide much of the functionality that they need.
 
