@@ -13,18 +13,18 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 ## List of Completed Projects
 * __OH Anomaly Detection__: Detect anomalies in Outcome Health processes and alert users via Slack.
 * __TwitterStream__: Ingest and Process Tweets into formats suitable for S3 and DynamoDB.
-* __AWS Big Data Certification__ (Feb-Apr 2019): I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](https://medium.com/series/f88281813b12).
+* __AWS Big Data Certification__ (Feb-Apr 2019): I'm working towards my AWS Big Data Certification, and in the process, I'm certain I'll be building projects to solidify my understanding of the concepts and tools tested. You can [follow along with my learning here](http://bit.ly/2MPHNaf).
   * Update: I'll be taking my exam May 1, 2019. So here's to the best of luck!
   * Update: I PASSED!! After 87 days of study, I got my Big Data Certification!
   * Update: I'll be spending a few days reflecting on what I've learned, which I'll add to my Medium series. I also need to think about what the next step in my journey should be, given all I've learned.
   * Update: Been thinking through how I choose my next project - retrospective on its way!
-  * Update: Output will likely be a Medium article [that looks like this](https://towardsdatascience.com/passing-the-google-cloud-professional-data-engineer-certification-87da9908b333).
+  * Update: Output will likely be a Medium article [that looks like this](http://bit.ly/2Xa4p9n).
 
 ## List of Current Projects
 * __MangaTracker__: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
-  * [MangaTracker Statement of Purpose](https://www.notion.so/darrinlim/MangaTracker-Statement-of-Purpose-ef04731e4a564369a0a8ed6190aa88c3)
-  * [MangaTracker Specification of Architecture](https://www.notion.so/darrinlim/MangaTracker-Specification-of-Architecture-6423a17c8cad4cfbbf55d0004977a1dd)
-  * [MangaTracker Execution Checklist](https://www.notion.so/darrinlim/MangaTracker-Execution-Checklist-3e1fcb5f30414cf594f20b6f7a79b12c)
+  * [MangaTracker Statement of Purpose](http://bit.ly/2KispB2)
+  * [MangaTracker Specification of Architecture](http://bit.ly/2MPf19t)
+  * [MangaTracker Execution Checklist](http://bit.ly/2Fatnet)
 * __Provider Operations Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data.
 * __AWS Big Data Certification Medium Article__: Since I've finished my AWS Big Data Certification, I should write a Medium article about the process and what I learned.
 * __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics, as Google Analytics doesn't provide much of the functionality that they need.
