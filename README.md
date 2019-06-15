@@ -30,11 +30,11 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 * __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics, as Google Analytics doesn't provide much of the functionality that they need.
 
 # My Medium Posts
-- [An Hour a Day to Being AWS Certified](https://medium.com/series/aws-big-data-certified-in-4-months-hopefully-f88281813b12)
-- [Using Machine Learning to Automate Anomaly Detection on a 100,000 Device Network](https://medium.com/inside-outcome/using-machine-learning-to-automate-anomaly-detection-on-a-100-000-device-network-e1f3d0c8876c)
+- [An Hour a Day to Being AWS Certified](http://bit.ly/2Ik7zPB)
+- [Using Machine Learning to Automate Anomaly Detection on a 100,000 Device Network](http://bit.ly/2RhHnaX)
 
 # Medium Posts I Heavily Contributed To
-- [Automating Video Transcoding with AWS Lambda & Serverless](https://medium.com/inside-outcome/automating-video-transcoding-with-aws-lambda-serverless-f98cd57d8ccc)
+- [Automating Video Transcoding with AWS Lambda & Serverless](http://bit.ly/2FdnsVV)
 
 ## List of Upcoming Projects
 * __Project Hermes__: To be revealed!
@@ -74,8 +74,8 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 
 ## List of Technologies I Have Basic Experience With
 - AWS: Glue, Kinesis, Glacier, EMR, SAM, IoT, SageMaker, Step Function, EC2
-- Apache Spark: An end-to-end data analytics package. [This link](https://www.youtube.com/watch?v=4SIZNQ7KZX8) is a great start for understanding what it is.
-- Docker: [A container service](https://www.youtube.com/watch?v=IbUXb4pQbPY)
+- Apache Spark: An end-to-end data analytics package. [This link](http://bit.ly/2MKRExJ) is a great start for understanding what it is.
+- Docker: [A container service](http://bit.ly/2Ri7eQg)
 - Interworks: A Data Portal Service for Tableau
 - DataBricks: A Data Science Environment Company
 - Snowflake: A Data Warehouse for Everything
@@ -84,7 +84,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 
 ## List of Technologies to Explore Further (Start w/ "What the Hell does this Do?")
 - Digital Ocean
-- Kubernetes: [What is Kubernetes?](https://www.youtube.com/watch?v=PH-2FfFD2PU) It's a service that provides the ability to run Docker containers across multiple machines, with Kubernetes ensuring that the number and type of containers you want are always up.
+- Kubernetes: [What is Kubernetes?](http://bit.ly/2WNwlM4) It's a service that provides the ability to run Docker containers across multiple machines, with Kubernetes ensuring that the number and type of containers you want are always up.
 - Terraform: An orchestrator! It's a service that provides Infrastructure-as-Code like AWS CloudFormation
 - AWS: Other Services
 - Google Cloud
