@@ -154,15 +154,15 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 # Learning Resources & Tutorials
 
 ## List of Learning Resources I've Used and Liked
-- [ACloudGuru](https://learn.acloud.guru/dashboard) - Great resource for learning about the various cloud providers.
-- [CS50 Lectures](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi) - Solid primer on the basics of CS.
-- [AWS 10 Minute Tutorials](https://aws.amazon.com/getting-started/tutorials/) - Quick tutorials for when I only have 10 minutes, but still want to learn and build something.
-- [AWS Getting Started Center](https://aws.amazon.com/getting-started/) - More in-depth tutorials on all AWS services.
-- [TechLead YouTube Channel](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw/featured) - Great for software engineering best practices from an experienced engineer. Also, he's pretty hilarious, even when he doesn't mean to be.
-- [Do You Need a Master's Degree?](https://www.youtube.com/watch?v=F0-fQn48tjk) - I like this take, primarily because it focuses on the end goal, which the degree itself is not.
-- [Building a Career in Machine Learning w/ Andrew Ng](https://www.youtube.com/watch?v=4kiHsIaK9_w) - A solid discussion on where the field of AI is going and how to develop the skills necessary to build a career in it.
-- [Hands-On Machine Learning with Scikit-Learn & Tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) - A great overview of all the various kinds of ML algorithms and where to apply them, as well as basic frameworks for setting up an ML pipeline.
-- [Crash Course - Software Engineering](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - This is a great series that goes from the raw basics to more advanced CS topics. A lot like Charles Petzoid's book, "Code".
+- [ACloudGuru](http://bit.ly/2ZtctPL) - Great resource for learning about the various cloud providers.
+- [CS50 Lectures](http://bit.ly/2IQccQr) - Solid primer on the basics of CS.
+- [AWS 10 Minute Tutorials](https://amzn.to/2WNgIc1) - Quick tutorials for when I only have 10 minutes, but still want to learn and build something.
+- [AWS Getting Started Center](https://amzn.to/2ZpS1PS) - More in-depth tutorials on all AWS services.
+- [TechLead YouTube Channel](http://bit.ly/2IiMCUV) - Great for software engineering best practices from an experienced engineer. Also, he's pretty hilarious, even when he doesn't mean to be.
+- [Do You Need a Master's Degree?](http://bit.ly/2KUksBm) - I like this take, primarily because it focuses on the end goal, which the degree itself is not.
+- [Building a Career in Machine Learning w/ Andrew Ng](http://bit.ly/2WO8AIw) - A solid discussion on where the field of AI is going and how to develop the skills necessary to build a career in it.
+- [Hands-On Machine Learning with Scikit-Learn & Tensorflow](https://amzn.to/31D6OIQ) - A great overview of all the various kinds of ML algorithms and where to apply them, as well as basic frameworks for setting up an ML pipeline.
+- [Crash Course - Software Engineering](http://bit.ly/2WKtjb9) - This is a great series that goes from the raw basics to more advanced CS topics. A lot like Charles Petzoid's book, "Code".
 - [Naval Ravikant's Series on Building Wealth](https://startupboy.com/2019/03/19/long-term/) - Amazing. Still digesting after multiple reads.
 - [Naval Ravikant's Tweetstorm on How to Get Rich Without Being Lucky](https://twitter.com/naval/status/1002103360646823936?lang=en) - The tweet version of the series above.
 - [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
