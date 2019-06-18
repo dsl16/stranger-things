@@ -163,15 +163,15 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - [Building a Career in Machine Learning w/ Andrew Ng](http://bit.ly/2WO8AIw) - A solid discussion on where the field of AI is going and how to develop the skills necessary to build a career in it.
 - [Hands-On Machine Learning with Scikit-Learn & Tensorflow](https://amzn.to/31D6OIQ) - A great overview of all the various kinds of ML algorithms and where to apply them, as well as basic frameworks for setting up an ML pipeline.
 - [Crash Course - Software Engineering](http://bit.ly/2WKtjb9) - This is a great series that goes from the raw basics to more advanced CS topics. A lot like Charles Petzoid's book, "Code".
-- [Naval Ravikant's Series on Building Wealth](https://startupboy.com/2019/03/19/long-term/) - Amazing. Still digesting after multiple reads.
-- [Naval Ravikant's Tweetstorm on How to Get Rich Without Being Lucky](https://twitter.com/naval/status/1002103360646823936?lang=en) - The tweet version of the series above.
+- [Naval Ravikant's Series on Building Wealth](http://bit.ly/2XY31ns) - Amazing. Still digesting after multiple reads.
+- [Naval Ravikant's Tweetstorm on How to Get Rich Without Being Lucky](http://bit.ly/2FglioB) - The tweet version of the series above.
 - [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
 
 ## List of Learning Resources Up Next
-- [MLLib Overview in Coursera](https://www.coursera.org/lecture/big-data-integration-processing/spark-mllib-uBV19)
+- [MLLib Overview in Coursera](http://bit.ly/2KoFHfw)
 
 ## List of Learning Resources to Check Out
-- [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)
+- [36 Amazing Python Open Source Projects (v.2019)](http://bit.ly/2WN5uQ5)
 
 ## List of Tutorials I've Used and Liked
 - [How to Create & Upload a Python Package to PyPI](https://packaging.python.org/tutorials/packaging-projects/)
