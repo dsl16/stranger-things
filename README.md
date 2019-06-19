@@ -174,12 +174,12 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - [36 Amazing Python Open Source Projects (v.2019)](http://bit.ly/2WN5uQ5)
 
 ## List of Tutorials I've Used and Liked
-- [How to Create & Upload a Python Package to PyPI](https://packaging.python.org/tutorials/packaging-projects/)
+- [How to Create & Upload a Python Package to PyPI](http://bit.ly/2KTr4QG)
 
 # Cool Articles
 
 ## Medicine
-- [Adaptive Medicine - Evolution Applied to Cancer Treatment](https://www.wired.com/story/cancer-treatment-darwin-evolution/)
+- [Adaptive Medicine - Evolution Applied to Cancer Treatment](http://bit.ly/2XtVCPO)
 
 # Cool Companies
 
