@@ -165,6 +165,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - [Crash Course - Software Engineering](http://bit.ly/2WKtjb9) - This is a great series that goes from the raw basics to more advanced CS topics. A lot like Charles Petzoid's book, "Code".
 - [Naval Ravikant's Series on Building Wealth](http://bit.ly/2XY31ns) - Amazing. Still digesting after multiple reads.
 - [Naval Ravikant's Tweetstorm on How to Get Rich Without Being Lucky](http://bit.ly/2FglioB) - The tweet version of the series above.
+- [Joe Rogan's Naval Ravikant Interview](https://www.youtube.com/watch?v=3qHkcs3kG44) - Great interview covering the topics in Naval's Tweetstorm and more.
 - [Launch School](https://launchschool.com/) - Software Engineering Education based on Mastery-Based Learning
 
 ## List of Learning Resources Up Next
