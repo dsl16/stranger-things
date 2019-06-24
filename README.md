@@ -71,11 +71,11 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 - Git
 - Tableau
 - AWS: S3, Redshift, Athena, Lambda, DynamoDB
+- Docker: [A container service](http://bit.ly/2Ri7eQg)
 
 ## List of Technologies I Have Basic Experience With
 - AWS: Glue, Kinesis, Glacier, EMR, SAM, IoT, SageMaker, Step Function, EC2
 - Apache Spark: An end-to-end data analytics package. [This link](http://bit.ly/2MKRExJ) is a great start for understanding what it is.
-- Docker: [A container service](http://bit.ly/2Ri7eQg)
 - Interworks: A Data Portal Service for Tableau
 - DataBricks: A Data Science Environment Company
 - Snowflake: A Data Warehouse for Everything
