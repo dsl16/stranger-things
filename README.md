@@ -27,7 +27,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
   * [MangaTracker Specification of Architecture](http://bit.ly/2MPf19t)
   * [MangaTracker Execution Checklist](http://bit.ly/2Fatnet)
 * __Provider Operations Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data.
-* __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics, as Google Analytics doesn't provide much of the functionality that they need.
+* __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics, as Google Analytics doesn't provide much of the functionality that they need - Google kind of screws middle tier companies who need deeper analytics, but can't shell out $150k for their enterprise edition.
 
 # My Medium Posts
 - [An Hour a Day to Being AWS Certified](http://bit.ly/2Ik7zPB)
