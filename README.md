@@ -21,12 +21,12 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
   * Update: Output will likely be a Medium article [that looks like this](http://bit.ly/2Xa4p9n).
 
 ## List of Current Projects
+* __AWS Big Data Certification Medium Article__: Since I've finished my AWS Big Data Certification, I should write a Medium article about the process and what I learned.
 * __MangaTracker__: Create a system on AWS that scrapes TenManga and ReadKingdom for new updates to manga I want to track. Set up continuous integration on MangaTracker in GitHub. The system should eventually integrate into a habit system as a reward - completion of a habit will unlock a chapter.
   * [MangaTracker Statement of Purpose](http://bit.ly/2KispB2)
   * [MangaTracker Specification of Architecture](http://bit.ly/2MPf19t)
   * [MangaTracker Execution Checklist](http://bit.ly/2Fatnet)
 * __Provider Operations Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data.
-* __AWS Big Data Certification Medium Article__: Since I've finished my AWS Big Data Certification, I should write a Medium article about the process and what I learned.
 * __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics, as Google Analytics doesn't provide much of the functionality that they need.
 
 # My Medium Posts
