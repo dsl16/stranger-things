@@ -32,6 +32,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 # My Medium Posts
 - [An Hour a Day to Being AWS Certified](http://bit.ly/2Ik7zPB)
 - [Using Machine Learning to Automate Anomaly Detection on a 100,000 Device Network](http://bit.ly/2RhHnaX)
+- [Advice for New and Junior Data Scientists](https://towardsdatascience.com/advice-for-new-and-junior-data-scientists-7c82f1d8b6e4)
 
 # Medium Posts I Heavily Contributed To
 - [Automating Video Transcoding with AWS Lambda & Serverless](http://bit.ly/2FdnsVV)
