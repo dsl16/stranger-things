@@ -30,9 +30,9 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 * __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics, as Google Analytics doesn't provide much of the functionality that they need - Google kind of screws middle tier companies who need deeper analytics, but can't shell out $150k for their enterprise edition.
 
 # My Medium Posts
+- [Advice for New and Junior Data Scientists](http://bit.ly/2XSy6vR)
 - [An Hour a Day to Being AWS Certified](http://bit.ly/2Ik7zPB)
 - [Using Machine Learning to Automate Anomaly Detection on a 100,000 Device Network](http://bit.ly/2RhHnaX)
-- [Advice for New and Junior Data Scientists](http://bit.ly/2XSy6vR)
 
 # Medium Posts I Heavily Contributed To
 - [Automating Video Transcoding with AWS Lambda & Serverless](http://bit.ly/2FdnsVV)
