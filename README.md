@@ -27,7 +27,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
   * [MangaTracker Specification of Architecture](http://bit.ly/2MPf19t)
   * [MangaTracker Execution Checklist](http://bit.ly/2Fatnet)
 * __Provider Operations Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data.
-* __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics, as Google Analytics doesn't provide much of the functionality that they need - Google kind of screws middle tier companies who need deeper analytics, but can't shell out $150k for their enterprise edition.
+
 
 # My Medium Posts
 - [Advice for New and Junior Data Scientists](http://bit.ly/2XSy6vR)
@@ -46,6 +46,10 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 * __Mushroom Growing Box w/ Mycodo__
 * __Coursera Deep Learning Specialization__: Learn the core algorithms and practices of deep learning.
 * __Initial Steps to a Master's Degree__: Take the GMAT or GRE? Lasts 5 years.
+
+## Deprioritized Projects
+* __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics, as Google Analytics doesn't provide much of the functionality that they need - Google kind of screws middle tier companies who need deeper analytics, but can't shell out $150k for their enterprise edition.
+  * (2019-07-10) Need is no longer there - also chose to deprioritize this project as my Product Manager scope has drastically increased at Outcome Health.
 
 # Languages
 
