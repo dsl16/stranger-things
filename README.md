@@ -1,6 +1,9 @@
 # stranger-things
 The primary goal of this repo is to hold all the various projects I build in my free time. I'm hoping to grow in my software engineering skills. There's a lot to learn! So hopefully this repo will grow to hold many, many projects.
 
+# Why Product Management?
+Prioritization, prioritization, prioritization.
+
 # Why Software Engineering?
 I think I'm starting to acknowledge that I'm really more of an engineer than anything else. I like to solve problems by building solutions. That's different than medicine - where your focus is on treatment and using the most up-to-date solution - which has been a distracting path of potential for a long time. I'm still thinking through this choice (after all, once you have an MD, you have it for life), but for now, I certainly won't regret working on projects like these.
 
@@ -27,7 +30,7 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
   * [MangaTracker Specification of Architecture](http://bit.ly/2MPf19t)
   * [MangaTracker Execution Checklist](http://bit.ly/2Fatnet)
 * __Provider Operations Data Pipeline__: Building a pipeline to automate the data ingest and processing of Outcome Health's provider data.
-* __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics, as Google Analytics doesn't provide much of the functionality that they need - Google kind of screws middle tier companies who need deeper analytics, but can't shell out $150k for their enterprise edition.
+
 
 # My Medium Posts
 - [Advice for New and Junior Data Scientists](http://bit.ly/2XSy6vR)
@@ -46,6 +49,10 @@ There are the formalized tracks the FAANG companies have: [more on that here](ht
 * __Mushroom Growing Box w/ Mycodo__
 * __Coursera Deep Learning Specialization__: Learn the core algorithms and practices of deep learning.
 * __Initial Steps to a Master's Degree__: Take the GMAT or GRE? Lasts 5 years.
+
+## Deprioritized Projects
+* __MoodTools Data Pipeline__: Helping a startup build a data pipeline for their web analytics, as Google Analytics doesn't provide much of the functionality that they need - Google kind of screws middle tier companies who need deeper analytics, but can't shell out $150k for their enterprise edition.
+  * (2019-07-10) Need is no longer there - also chose to deprioritize this project as my Product Manager scope has drastically increased at Outcome Health.
 
 # Languages
 
